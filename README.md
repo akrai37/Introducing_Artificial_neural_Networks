@@ -1,2 +1,2 @@
-# Deep-Learning_ANN-CNN
+# Deep-Learning_ANN
 Diving into 2 deep learning algorithm-ArtificialNeuralNetworks
