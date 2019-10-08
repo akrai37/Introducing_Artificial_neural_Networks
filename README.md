@@ -1,2 +1,3 @@
 # Deep-Learning_ANN
-Diving into  deep learning algorithms-ArtificialNeuralNetworks
+Artificial Neural Networks.
+Predicting whether the customer will stay with the company or not using a regular Neural Network,thus solving a classification problem.
